@@ -1,2 +1,3 @@
 #!/bin/bash
+# This script print a username.
 echo "$(id -un)"
