@@ -1,4 +1,2 @@
 #!/bin/bash
-
-# Print the effective username of the current user
-echo "Effective username: $(id -un)"
+$(id -un)
